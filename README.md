@@ -14,7 +14,7 @@
         <td>1</td>
         <td>
             <b>
-             <a href="https://github.com">
+             <a href="https://github.com/aefr1/data-analysis-projects/tree/main/yandex_music_user_preferences">
              Исследование предпочтений и активности пользователей сервиса Яндекс.Музыка</a>
             </b>
         </td>
