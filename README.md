@@ -40,7 +40,9 @@
         </td>
         <td>
         <code>предобработка данных</code><br/>
+            <br/>
         <code>лемматизация</code><br/>
+            <br/>
         <code>Python</code><br/>
         <code>Pandas</code><br/>
         <code>Pymystem3</code><br/>
