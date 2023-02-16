@@ -45,7 +45,7 @@
 `визуализация данных`  
 `Python`
 `Pandas`
-`Matplotl`
+`Matplotlib`
 `Seaborn` 
 
 ## Содержание
