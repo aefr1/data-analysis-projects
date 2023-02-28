@@ -40,9 +40,9 @@
         </td>
         <td>
         <code>предобработка данных</code><br/>
-            <br/>
+        <br/>
         <code>лемматизация</code><br/>
-            <br/>
+        <br/>
         <code>Python</code><br/>
         <code>Pandas</code><br/>
         <code>Pymystem3</code><br/>
@@ -85,7 +85,9 @@
         </td>
         <td>
         <code>описательная статистика</code><br/>
+        <br/>
         <code>проверка статистических гипотез</code><br/>
+        <br/>
         <code>Python</code>
         <code>Pandas</code>
         <code>Matplotlib</code>
