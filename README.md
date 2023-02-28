@@ -26,7 +26,7 @@
         <code>Pandas</code><br/>
         </td>
     </tr>
-        <tr>
+    <tr>
         <td>2</td>
         <td>
             <b>
@@ -48,8 +48,7 @@
         <code>Pymystem3</code><br/>
         </td>
     </tr>
-    </tr>
-        <tr>
+    <tr>
         <td>3</td>
         <td>
             <b>
@@ -70,6 +69,28 @@
         <code>Python</code>
         <code>Pandas</code>
         <code>Matplotlib</code>
+        <code>Seaborn</code><br/>
+        </td>
+    </tr>    
+    <tr>
+        <td>4</td>
+        <td>
+            <b>
+             <a href="https://github.com/aefr1/data-analysis-projects/tree/main/mobile_operator_tariffs">
+             Сравнение тарифов сотового оператора</a>
+            </b>
+        </td>
+        <td>
+         На основе имеющейся выборки клиентов оператора сотовой связи, проведена предобработка данных, произведены необходимые расчеты и проанализировано поведение клиентов в соответствии с используемыми тарифными планами. Сформулированы и проверены две пары гипотез о различии выручки абонентов разных тарифов и различии выручки абонентов из Москвы и других регионов. Определен тариф, приносящий наибольшую выручку и сформулированы рекомендации для заказчика.
+        </td>
+        <td>
+        <code>описательная статистика</code><br/>
+        <code>проверка статистических гипотез</code><br/>
+        <code>Python</code>
+        <code>Pandas</code>
+        <code>Matplotlib</code>
+        <code>Numpy</code>
+        <code>Scipy</code>
         <code>Seaborn</code><br/>
         </td>
     </tr>    
