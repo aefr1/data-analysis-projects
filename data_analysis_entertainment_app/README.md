@@ -75,10 +75,10 @@
 `юнит-экономика` 
 `продуктовые метрики`   
 
-`Python`  
-`Pandas` 
+`Python` 
+`Pandas`  
 `Datetime` 
-`Matplotlib`  
+`Matplotlib` 
 `Numpy`   
 
 ## Содержание:  
