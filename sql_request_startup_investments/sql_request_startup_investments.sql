@@ -117,7 +117,7 @@ FROM people AS p LEFT JOIN education AS e ON p.id = e.person_id;
 --     Вывести топ-5 компаний по количеству университетов (название компании и число уникальных названий учебных заведений):
 
 SSELECT c.name,
-	   COUNT(DISTINCT instituition) AS count_inst
+	 COUNT(DISTINCT instituition) AS count_inst
 FROM people AS p
 JOIN education AS e ON p.id = e.person_id
 JOIN company AS c ON c.id = p.company_id
@@ -214,7 +214,7 @@ FROM company AS c
 LEFT JOIN investment AS i ON i.company_id  = c.id
 LEFT JOIN funding_round AS fr ON i.funding_round_id = fr.id
 LEFT JOIN fund AS f ON i.fund_id = f.id
-WHERE EXTRACT (YEAR FROM CAST (fr.funded_at  AS DATE)) IN (2012,2013) AND c.milestones > 6 
+WHERE EXTRACT (YEAR FROM CAST (fr.funded_at  AS DATE)) IN (2012,2013) AND c.milestones > 6;  
 
 
 /* 20. Выгрузить таблицу, в которой будут следующие поля:
@@ -309,6 +309,6 @@ FROM (SELECT country_code,
       FROM company AS c
       WHERE EXTRACT(YEAR FROM c.founded_at) = 2013
       GROUP BY country_code) AS y13 ON y11.country_code = y13.country_code
-      ORDER BY y11.s DESC
+      ORDER BY y11.s DESC;
 
       
