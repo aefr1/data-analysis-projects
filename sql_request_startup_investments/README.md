@@ -105,6 +105,8 @@
 **created_at** — дата и время создания записи в таблице;
 **updated_at** — дата и время обновления записи в таблице.
 
+![ER-диаграмма](https://github.com/aefr1/data-analysis-projects/blob/main/sql_request_startup_investments/er_diagram.png)
+
 ## Навыки и инструменты:
 
 `SQL` `PostgreSQL`
