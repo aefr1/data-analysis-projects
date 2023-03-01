@@ -136,7 +136,6 @@
         <td>
         <code>SQL</code>
         <code>PostgreSQL</code><br/>
-        <br/>
         <code>работа с ER-диаграммой</code><br/>
         <code>выгрузка данных</code><br/>
         <code>cрезы</code>
