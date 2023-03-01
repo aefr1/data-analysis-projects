@@ -19,6 +19,10 @@
 
 ## Описание данных:  
 
+**ER-диаграмма**
+
+![ER-диаграмма](https://github.com/aefr1/data-analysis-projects/blob/main/sql_request_startup_investments/er_diagram.png)
+
 *Таблица acquisition* (Содержит информацию о покупках одних компаний другими)
 
 **id** (первичный ключ) — идентификатор или уникальный номер покупки;  
@@ -104,10 +108,6 @@
 **twitter_username** — профиль сотрудника в твиттере;  
 **created_at** — дата и время создания записи в таблице;  
 **updated_at** — дата и время обновления записи в таблице.  
-
-**ER-диаграмма**
-
-![ER-диаграмма](https://github.com/aefr1/data-analysis-projects/blob/main/sql_request_startup_investments/er_diagram.png)
 
 ## Навыки и инструменты:
 
