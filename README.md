@@ -175,7 +175,7 @@
         <td>
             <b>
              <a href="https://github.com/aefr1/data-analysis-projects/tree/main/sql_request_stackoverflow">
-             SQL запросы для анализа базы данных по рынку инвестиций</a>
+             SQL запросы для анализа базы данных StackOverflow</a>
             </b>
         </td>
         <td>
