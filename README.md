@@ -214,11 +214,11 @@
         <code>A/B-тестирование</code><br/>
         <code>проверка статистических гипотез</code><br/>
         <br/>
-        <code>Python</code>
-        <code>Pandas</code>
-        <code>Datetime</code>
-        <code>Matplotlib</code>
-        <code>Numpy</code>
+        <code>Python</code><br/>
+        <code>Pandas</code><br/>
+        <code>Datetime</code><br/>
+        <code>Matplotlib</code><br/>
+        <code>Numpy</code><br/>
         <code>Scipy</code>
         </td>
     </tr>                      
