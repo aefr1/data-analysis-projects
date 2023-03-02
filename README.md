@@ -238,7 +238,7 @@
         <code>событийная аналитика</code><br/>
         <code>продуктовые метрики</code><br/>
         <code>A/B-тестирование</code><br/>
-        <code>проверка статистических гипотез</code>
+        <code>проверка статистических гипотез</code><br/>
         <code>Python</code>
         <code>Pandas</code><br/>
         <code>Matplotlib</code>
