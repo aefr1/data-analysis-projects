@@ -61,14 +61,14 @@
 
 ## Навыки и инструменты:
 
-`приоритизация ICE, RICE`
+`приоритизация ICE, RICE`  
 `A/B-тестирование`  
 `проверка статистических гипотез`   
-
-`Python` 
+  
+`Python`  
 `Pandas`  
-`Datetime` 
-`Matplotlib` 
+`Datetime`  
+`Matplotlib`  
 `Numpy`  
 `Scipy`   
 
