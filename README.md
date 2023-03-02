@@ -66,6 +66,7 @@
         <code>предобработка данных</code><br/>
         <code>исследовательский анализ</code><br/>
         <code>визуализация данных</code><br/>
+        <br/>
         <code>Python</code>
         <code>Pandas</code>
         <code>Matplotlib</code>
