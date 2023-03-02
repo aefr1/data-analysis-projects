@@ -136,6 +136,7 @@
         <td>
         <code>SQL</code>
         <code>PostgreSQL</code><br/>
+        <br/>
         <code>работа с ER-диаграммой</code><br/>
         <code>выгрузка данных</code><br/>
         <code>cрезы</code>
@@ -186,6 +187,7 @@
         <td>
         <code>SQL</code>
         <code>PostgreSQL</code><br/>
+        <br/>
         <code>работа с ER-диаграммой</code><br/>
         <code>выгрузка данных</code><br/>
         <code>когортный анализ</code><br/>  
@@ -213,6 +215,7 @@
         <code>приоритизация ICE, RICE</code><br/>
         <code>A/B-тестирование</code><br/>
         <code>проверка статистических гипотез</code><br/>
+        <br/>
         <code>Python</code>
         <code>Pandas</code><br/>
         <code>Datetime</code>
@@ -239,6 +242,7 @@
         <code>продуктовые метрики</code><br/>
         <code>A/B-тестирование</code><br/>
         <code>проверка статистических гипотез</code><br/>
+        <br/>
         <code>Python</code>
         <code>Pandas</code><br/>
         <code>Matplotlib</code>
