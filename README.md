@@ -213,12 +213,11 @@
         <code>приоритизация ICE, RICE</code><br/>
         <code>A/B-тестирование</code><br/>
         <code>проверка статистических гипотез</code><br/>
-        <br/>
-        <code>Python</code><br/>
+        <code>Python</code>
         <code>Pandas</code><br/>
-        <code>Datetime</code><br/>
+        <code>Datetime</code>
         <code>Matplotlib</code><br/>
-        <code>Numpy</code><br/>
+        <code>Numpy</code>
         <code>Scipy</code>
         </td>
     </tr>                      
