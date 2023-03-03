@@ -239,7 +239,7 @@
         <td>
         <code>визуализация данных</code><br/>
         <code>работа с фоновыми картограммами</code><br/>
-        <code>оздание презентаций</code><br/>
+        <code>создание презентаций</code><br/>
         <br/>
         <code>Python</code>
         <code>Pandas</code><br/>
