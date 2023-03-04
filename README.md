@@ -250,5 +250,28 @@
         <code>Folium</code>
         </td>
     </tr>                      
+    <tr>
+        <td>12</td>
+        <td>
+            <b>
+             <a href="https://github.com/aefr1/data-analysis-projects/tree/main/dashboard_yandex_zen">
+            Дашборд для изучения активности пользователей Яндекс.Дзен</a>
+            </b>
+        </td>
+        <td>
+         Данный проект посвящен разработке дашборда на платформе public.tableau.com. С помощью пайплайна проведен сбор данных с удаленной машины в сервисе Yandex.Cloud. В соответствии с техническим заданием создан дашборд с необходимыми фильтрами, графиками и таблицей. В целях демонстрации работоспособности дашборда подготовлена презентация с полученными графиками и ответами на поставленные вопросы.  
+        </td>
+        <td>
+        <code>продуктовые метрики</code><br/>
+        <code>построение дашбордов</code><br/>
+        <code>создание презентаций</code><br/>
+        <br/>
+        <code>Python</code>
+        <code>Pandas</code>
+        <code>SQLAlchemy</code>
+        <code>PostgreSQL</code>
+        <code>Tableau</code>
+        </td>
+    </tr>                      
 </tbody>
 </table>
