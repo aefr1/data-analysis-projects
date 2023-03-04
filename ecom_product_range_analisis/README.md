@@ -37,7 +37,7 @@
   
 **Примечание:**  
 
-В данном проекте используется библиотека Plotly, графики которой не отображаются на GitHub (здесь они заменены скриншотами). Для интерактивного отображения графиков Plotly рекомендуется открывать данный проект через [nbviewer](https://nbviewer.org/github/aefr1/data-analysis-projects/blob/main/ecom_product_range_analisis.ipynb)  
+В данном проекте используется библиотека Plotly, графики которой не отображаются на GitHub (здесь они заменены скриншотами). Для интерактивного отображения графиков Plotly рекомендуется открывать данный проект через [nbviewer](https://nbviewer.org/github/aefr1/data-analysis-projects/blob/main/ecom_product_range_analisis/ecom_product_range_analisis.ipynb)  
 
 ## Цель проекта  
 
