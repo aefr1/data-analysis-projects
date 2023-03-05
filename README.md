@@ -370,7 +370,7 @@
         <td>
             <b>
              <a href="https://github.com/aefr1/data-analysis-projects/tree/main/sql_analysis_reading_service">
-             Анализ базы данных сервиса для чтения книг</a>
+            SQL Анализ базы данных сервиса для чтения книг</a>
             </b>
         </td>
         <td>
